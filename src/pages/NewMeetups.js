@@ -1,5 +1,9 @@
 function NewMeetupsPage() {
-    return <div>New Meetups Page</div>
-};
+  return;
+  <section>
+    <h1>New Meetup!</h1>
+    
+  </section>;
+}
 
 export default NewMeetupsPage;
