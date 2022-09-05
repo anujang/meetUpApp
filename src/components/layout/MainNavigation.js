@@ -9,7 +9,7 @@ function MainNavigation() {
       <nav>
         <ul>
           <li>
-            <Link to="/">All Mee tups</Link>
+            <Link to="/">All Meetups</Link>
           </li>
           <li>
             <Link to="/new-meetups">Add New Meetups</Link>
